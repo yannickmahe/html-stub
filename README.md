@@ -14,5 +14,5 @@ Included :
 Get started
 ===========
 
-git clone git@github.com:yannickmahe/html-stub.git
-git submodule init
+    git clone git@github.com:yannickmahe/html-stub.git
+    git submodule init
