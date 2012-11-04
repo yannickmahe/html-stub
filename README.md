@@ -9,3 +9,4 @@ Included :
 * jQuery (via google CDN)
 * Twitter bootstrap (and all javascript addons)
 * Font awesome
+* less.js
