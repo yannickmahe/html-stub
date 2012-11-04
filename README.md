@@ -6,13 +6,12 @@ This is a stub for building an html page with bootstrap. The goal is to start qu
 
 Included :
 
-* jQuery (via google CDN)
+* jQuery 1.8.2 (via google CDN)
 * Twitter bootstrap (and all javascript addons), as submodule
 * Font awesome, as a submodule
-* less.js
+* less.js 1.3.1
 
 Get started
 -----------
 
-    git clone git@github.com:yannickmahe/html-stub.git
-    git submodule init
+    git clone --recursive git@github.com:yannickmahe/html-stub.git
